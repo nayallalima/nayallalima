@@ -1,4 +1,11 @@
-### Hi there 👋
+<h1 align='center'> Hi there 👋 I'm Nayalla 👩‍💻 </h1>
+
+<p align='center'> Developer from Recife, Brazil.
+<p align='center'> 
+
+[![Linkedin Badge](https://img.shields.io/badge/-NayallaLima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nayalla-lima//)](https://www.linkedin.com/in/nayalla-lima/)
+[![Gmail Badge](https://img.shields.io/badge/-nayallaml@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nayallaml@gmail.com)](mailto:nayallaml@gmail.com)
+</p>
 
 <!--
 **nayallalima/nayallalima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
