@@ -46,7 +46,7 @@
 
 ![Express](http://img.shields.io/badge/-Express-black?style=flat&logo=express&logoColor=white)
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white)
-![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat&logo=Maven&logoColor=white)
+![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat&logo=&logoColor=white)
 
 <br>
 
