@@ -53,12 +53,8 @@
 ![NPM](https://img.shields.io/badge/-CB3837?style=flat&logo=npm&logoColor=white)
 ![Express](http://img.shields.io/badge/-black?style=flat&logo=express&logoColor=white)
 ![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat&logo=maven&logoColor=white)
-
-<hr>
-
 ![Figma](https://img.shields.io/badge/-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-00C7B7?style=flat&logo=Netlify&logoColor=white)
-
 <hr>
 
 ![Insomnia](https://img.shields.io/badge/-5849BE?style=flat&logo=insomnia&logoColor=white)
@@ -71,9 +67,6 @@
 
 ![Git](https://img.shields.io/badge/-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-181717?style=flat&logo=github&logoColor=white)
-
-<hr>
-
 ![Notion](https://img.shields.io/badge/-black?style=flat&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/-0079BF?style=flat&logo=trello&logoColor=white)
 ![Slack](https://img.shields.io/badge/-4A154B?style=flat&logo=slack&logoColor=white)
