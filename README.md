@@ -42,41 +42,41 @@
 #### 💈 More Skills
 <br>
 
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![NodeJS](http://img.shields.io/badge/-NodeJS-339933?style=flat&logo=node.js&logoColor=white)
+![CSS3](https://img.shields.io/badge/-1572B6?style=flat&logo=css3)
+![HTML5](https://img.shields.io/badge/-E34F26?style=flat&logo=html5&logoColor=white)
+![Sass](https://img.shields.io/badge/-CC6699?style=flat&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![NodeJS](http://img.shields.io/badge/-339933?style=flat&logo=node.js&logoColor=white)
 
 <hr>
 
-![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white)
-![Express](http://img.shields.io/badge/-Express-black?style=flat&logo=express&logoColor=white)
-![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat&logoColor=white)
+![NPM](https://img.shields.io/badge/-CB3837?style=flat&logo=npm&logoColor=white)
+![Express](http://img.shields.io/badge/-black?style=flat&logo=express&logoColor=white)
+![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat&logo=maven&logoColor=white)
 
 <hr>
 
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=Netlify&logoColor=white)
+![Figma](https://img.shields.io/badge/-F24E1E?style=flat&logo=figma&logoColor=white)
+![Netlify](https://img.shields.io/badge/-00C7B7?style=flat&logo=Netlify&logoColor=white)
 
 <hr>
 
-![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat&logo=insomnia&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Intellij](https://img.shields.io/badge/-IntellijIdea-000000?style=flat&logo=intellij-idea&logoColor=white)
+![Insomnia](https://img.shields.io/badge/-5849BE?style=flat&logo=insomnia&logoColor=white)
+![Postman](https://img.shields.io/badge/-FF6C37?style=flat&logo=postman&logoColor=white)
+![VSCode](https://img.shields.io/badge/-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Intellij](https://img.shields.io/badge/-000000?style=flat&logo=intellij-idea&logoColor=white)
 ![Beekeeper](https://img.shields.io/badge/-Beekeeper-FFDD00?style=flat&logo=beekeeper&logoColor=white)
 
 <hr>
 
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-181717?style=flat&logo=github&logoColor=white)
 
 <hr>
 
-![Notion](https://img.shields.io/badge/-Notion-black?style=flat&logo=notion&logoColor=white)
-![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat&logo=trello&logoColor=white)
-![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white)
+![Notion](https://img.shields.io/badge/-black?style=flat&logo=notion&logoColor=white)
+![Trello](https://img.shields.io/badge/-0079BF?style=flat&logo=trello&logoColor=white)
+![Slack](https://img.shields.io/badge/-4A154B?style=flat&logo=slack&logoColor=white)
 
 
 <p align='center'>
