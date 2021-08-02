@@ -1,5 +1,5 @@
 <h1 align='center' > <a href="https://www.linkedin.com/in/nayalla-lima/">
- <img style="border-radius:20%" style="margin:1rem" src="https://media-exp1.licdn.com/dms/image/C4E03AQF2CoYQ5p5hLg/profile-displayphoto-shrink_800_800/0/1609244458047?e=1621468800&v=beta&t=q4Zr04N_58RRGnCLZBWU78OXI7TP4N8A08uvc9Pbuow" width="150px"; alt="foto de Nayalla Lima"/> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  width="25px"> I'm Nayalla 👩‍💻 </h1>
+ <img style="border-radius:20%" style="margin:1rem" src="https://media-exp1.licdn.com/dms/image/C4E03AQF2CoYQ5p5hLg/profile-displayphoto-shrink_200_200/0/1609244458047?e=1633564800&v=beta&t=VffycWydc2byjIBsZ-CeUtrisTxiE7JXek3PgBbwbSM" width="150px"; alt="foto de Nayalla Lima"/> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  width="25px"> I'm Nayalla 👩‍💻 </h1>
 
 <p align='center'> Developer Front-End Junior from Recife - PE, Brazil.
 <p align='center'> 
@@ -14,7 +14,7 @@
 <a href="https://discord.gg/KH6kf52H" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
 </p>
 
-- 👩🏽‍⚕️ Nutricionista <br>
+- 👩‍⚕️ Nutricionista <br>
 - 📚 Aprendendo JavaScript, Python, TypeScript e Java; <br>
 - 😊 Pronome: Ela/Dela/ she/her
 
