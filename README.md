@@ -1,7 +1,7 @@
-<h1 align='center'> <a href="https://www.linkedin.com/in/nayalla-lima/">
- <img style="border-radius: 10%;" src="https://media-exp1.licdn.com/dms/image/C4E03AQF2CoYQ5p5hLg/profile-displayphoto-shrink_200_200/0/1609244458047?e=1628726400&v=beta&t=ZWKWqKjkEkZjqMO9oH_3dAwmt-XTL20VTzsQDZ38Nn4" width="100px;" alt="foto de Nayalla Lima"/> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Nayalla 👩‍💻 </h1>
+<h1 align='center' > <a href="https://www.linkedin.com/in/nayalla-lima/">
+ <img style="border-radius:20%" style="margin:1rem" src="https://media-exp1.licdn.com/dms/image/C4E03AQF2CoYQ5p5hLg/profile-displayphoto-shrink_800_800/0/1609244458047?e=1621468800&v=beta&t=q4Zr04N_58RRGnCLZBWU78OXI7TP4N8A08uvc9Pbuow" width="150px"; alt="foto de Nayalla Lima"/> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  width="25px"> I'm Nayalla 👩‍💻 </h1>
 
-<p align='center'> Developer from Recife - PE, Brazil.
+<p align='center'> Developer Front-End Junior from Recife - PE, Brazil.
 <p align='center'> 
 
 <a href="https://www.linkedin.com/in/nayalla-lima/">
@@ -11,22 +11,28 @@
 <a href="https://instagram.com/nayallam_lima">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
 </a>
+<a href="https://discord.gg/KH6kf52H" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
 </p>
 
-
-### &#x1f4c8; GitHub Stats
-
-
-![Nayalla Lima's github stats](https://github-readme-stats.vercel.app/api?username=nayallalima&show_icons=true&theme=radical)
+- 👩🏽‍⚕️ Nutricionista <br>
+- 📚 Aprendendo JavaScript, Python, TypeScript e Java; <br>
+- 😊 Pronome: Ela/Dela/ she/her
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayallalima&theme=radical&layout=compact)
+<br>
+
+<div>
+  <a href="https://github-readme-stats.vercel.app/api?username=nayallalima&show_icons=true&theme=radical">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nayallalima&show_icons=true&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayallalima&theme=radical&layout=compact"/>
+</div>
+
 
 ### 💼 Skills
 
 ![Javascript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-51CBF2?style=flat&logo=react&logoColor=white)
 ![Typescript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -44,9 +50,9 @@
 
 <br>
 
-![Express](http://img.shields.io/badge/-Express-black?style=flat&logo=express&logoColor=white)
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white)
-![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat&logo=&logoColor=white)
+![Express](http://img.shields.io/badge/-Express-black?style=flat&logo=express&logoColor=white)
+![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat&logoColor=white)
 
 <br>
 
@@ -86,4 +92,7 @@
 
 <a href="https://badges.pufler.dev">
     <img align="right" src="https://badges.pufler.dev/visits/nayallalima/nayallalima?color=purple" alt="Visitors badge" />
- </a>
+</a>
+
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
