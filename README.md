@@ -52,9 +52,7 @@
 
 ![NPM](https://img.shields.io/badge/-CB3837?style=flat&logo=npm&logoColor=white)
 ![Express](http://img.shields.io/badge/-black?style=flat&logo=express&logoColor=white)
-
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png"  width="25px">
-
 ![Figma](https://img.shields.io/badge/-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-00C7B7?style=flat&logo=Netlify&logoColor=white)
 <hr>
