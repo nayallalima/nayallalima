@@ -29,6 +29,7 @@
 
 
 ### 💼 Skills
+<br>
 
 ![Javascript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -38,8 +39,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 
-<details>
-<summary>More Skills</summary>
+#### 💈 More Skills
 <br>
 
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
@@ -48,18 +48,18 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![NodeJS](http://img.shields.io/badge/-NodeJS-339933?style=flat&logo=node.js&logoColor=white)
 
-<br>
+<hr>
 
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white)
 ![Express](http://img.shields.io/badge/-Express-black?style=flat&logo=express&logoColor=white)
 ![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat&logoColor=white)
 
-<br>
+<hr>
 
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=Netlify&logoColor=white)
 
-<br>
+<hr>
 
 ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat&logo=insomnia&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
@@ -67,20 +67,20 @@
 ![Intellij](https://img.shields.io/badge/-IntellijIdea-000000?style=flat&logo=intellij-idea&logoColor=white)
 ![Beekeeper](https://img.shields.io/badge/-Beekeeper-FFDD00?style=flat&logo=beekeeper&logoColor=white)
 
-<br>
+<hr>
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white)
 
-<br>
+<hr>
 
 ![Notion](https://img.shields.io/badge/-Notion-black?style=flat&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat&logo=trello&logoColor=white)
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white)
 
-</details>
+
 <p align='center'>
-  Do you like my open source projects? 😀 <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
+  Do you like my open source projects? 😀 <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars  <img src="https://www.imagensanimadas.com/data/media/280/estrela-imagem-animada-0103.gif"  width="25px"></a>
 </p>
 
 <p align='center'>
@@ -95,4 +95,3 @@
 </a>
 
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-
