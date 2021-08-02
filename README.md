@@ -52,7 +52,9 @@
 
 ![NPM](https://img.shields.io/badge/-CB3837?style=flat&logo=npm&logoColor=white)
 ![Express](http://img.shields.io/badge/-black?style=flat&logo=express&logoColor=white)
-![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat&logo=maven&logoColor=white)
+
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png"  width="25px">
+
 ![Figma](https://img.shields.io/badge/-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-00C7B7?style=flat&logo=Netlify&logoColor=white)
 <hr>
@@ -61,7 +63,7 @@
 ![Postman](https://img.shields.io/badge/-FF6C37?style=flat&logo=postman&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Intellij](https://img.shields.io/badge/-000000?style=flat&logo=intellij-idea&logoColor=white)
-![Beekeeper](https://img.shields.io/badge/-Beekeeper-FFDD00?style=flat&logo=beekeeper&logoColor=white)
+<img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2020/03/512x512_4JGJ8f7.png"  width="23px">
 
 <hr>
 
