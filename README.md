@@ -11,11 +11,11 @@
 <a href="https://instagram.com/nayallam_lima">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
 </a>
-<a href="https://discord.gg/KH6kf52H" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+<a href="https://discord.gg/KH6kf52H" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </p>
 
 - 👩‍⚕️ Nutricionista <br>
-- 📚 Aprendendo JavaScript, Python, TypeScript e Java; <br>
+- 📚 Aprendendo JavaScript, Python, TypeScript e Java <br>
 - 😊 Pronome: Ela/Dela/ she/her
 
 
