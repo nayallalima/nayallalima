@@ -80,7 +80,7 @@
    Contact me:  
   <img src="https://i.pinimg.com/originals/06/2b/aa/062baabe40ac8aa395bcfbc6f0351534.gif"  width="25px"><br>
   <a href="mailto:nayallaml@gmail.com">  
-    <img src="https://cdn.dribbble.com/users/4793206/screenshots/15174306/logo-animation.gif" width="75px" />        
+    <img src="https://cdn.dribbble.com/users/4793206/screenshots/15174306/logo-animation.gif" width="100px" />        
 </a>
 </p>
 
