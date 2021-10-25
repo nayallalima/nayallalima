@@ -1,76 +1,92 @@
-<h1 align='center' > <a href="https://www.linkedin.com/in/nayalla-lima/">
- <img style="border-radius:30%" style="margin:1rem" src="https://media-exp1.licdn.com/dms/image/C4E03AQF2CoYQ5p5hLg/profile-displayphoto-shrink_200_200/0/1609244458047?e=1633564800&v=beta&t=VffycWydc2byjIBsZ-CeUtrisTxiE7JXek3PgBbwbSM" width="150px"; alt="foto de Nayalla Lima"/> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  width="25px"> I'm Nayalla 👩‍💻 </h1>
+<h1 align='center' > <a href="https://www.linkedin.com/in/nayalla-lima/" target="_blank">
+ <img style="border-radius:50%" style="margin:1rem" width="60px" src="https://media-exp1.licdn.com/dms/image/C4E03AQF2CoYQ5p5hLg/profile-displayphoto-shrink_200_200/0/1609244458047?e=1640822400&v=beta&t=ieH2yXRoyMOJ783VUV6r_dEKz22WXNW__LzwtAt8MAQ" width="150px"; alt="foto de Nayalla Lima"/> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  width="30px"> I'm Nayalla 👩‍💻 </h1>
 
 <p align='center'> Developer Front-End Junior from Recife - PE, Brazil.
-<p align='center'> 
+<p align='center'>
 
-<a href="https://www.linkedin.com/in/nayalla-lima/">
+<a href="https://www.linkedin.com/in/nayalla-lima/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-<a href="https://instagram.com/nayallam_lima">
+<a href="https://instagram.com/nayallam_lima" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
 </a>
-<a href="https://discord.gg/KH6kf52H" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+<a href="https://discord.gg/KH6kf52H" target="_blank"><img src="https://img.shields.io/badge/Discord-685EA9?style=for-the-badge&logo=discord&logoColor=white" ></a>
+<a href="https://meet.google.com/?hs=197&pli=1&authuser=0" target="_blank"><img src="https://img.shields.io/badge/Google%20Meet-32A350?style=for-the-badge&logo=google-meet&logoColor=white" ></a>
 </p>
 
 - 👩‍⚕️ Nutricionista <br>
 - 📚 Aprendendo JavaScript, Python, TypeScript e Java <br>
-- <img width="20vw" src="https://pa1.narvii.com/6579/d4ff876f2a775c3496071ad629f73f38e1119f18_hq.gif"/>      Pronome: Ela/Dela/ she/her
+- <img width="20vw" src="https://pa1.narvii.com/6579/d4ff876f2a775c3496071ad629f73f38e1119f18_hq.gif"/> Pronome: Ela/Dela/ she/her
+  <br>
 
+### 💼 Languages, tools ​​and frameworks I know study
 
 <br>
+
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![ReactJS](https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Typescript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+<hr>
+
+![Mongo](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/prisma-1B222D?style=for-the-badge&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+<hr>
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+<hr>
+
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![YARN](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Maven](https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+<hr>
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-1867C0?style=for-the-badge&logo=Netlify&logoColor=white)
+![Circleci](https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white)
+
+<hr>
+
+![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Intellij](https://img.shields.io/badge/Intellij-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+<img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2020/03/512x512_4JGJ8f7.png"  width="23px" alt="beekeper">![Beekeper](https://img.shields.io/badge/Beekeper-FCC624?style=for-the-badge&logo=beekeper&logoColor=black)
+
+<hr>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0078D4?style=for-the-badge&logo=Jira&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000?style=for-the-badge&logo=notion&logoColor=white)
 
 <div>
   <a href="https://github-readme-stats.vercel.app/api?username=nayallalima&show_icons=true&theme=radical">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nayallalima&show_icons=true&theme=radical"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayallalima&theme=radical&layout=compact"/>
+  <img height="125em" src="https://github-readme-stats.vercel.app/api?username=nayallalima&show_icons=true&theme=radical"/>
+  <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayallalima&theme=radical&layout=compact"/>
 </div>
-
-
-### 💼 Skills
 <br>
-
-![Javascript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![ReactJS](https://img.shields.io/badge/-ReactJS-51CBF2?style=flat&logo=react&logoColor=white)
-![Typescript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-
-#### 💈 More Skills
-<br>
-
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Sass](https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![NodeJS](http://img.shields.io/badge/NodeJS-339933?style=flat&logo=node.js&logoColor=white)
-
-<hr>
-
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white)
-![Express](http://img.shields.io/badge/Express-black?style=flat&logo=express&logoColor=white)
-<img Ma src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png"  width="25px" >
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=Netlify&logoColor=white)
-<hr>
-
-![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=flat&logo=insomnia&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Intellij](https://img.shields.io/badge/Intellij-000000?style=flat&logo=intellij-idea&logoColor=white)
-<img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2020/03/512x512_4JGJ8f7.png"  width="23px" alt="beekeper">
-
-<hr>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-black?style=flat&logo=notion&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0079BF?style=flat&logo=trello&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
-
 
 <p align='center'>
   Do you like my open source projects? 😀 <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars  <img src="https://www.imagensanimadas.com/data/media/280/estrela-imagem-animada-0103.gif"  width="25px"></a>
