@@ -14,9 +14,9 @@
 <a href="https://meet.google.com/?hs=197&pli=1&authuser=0" target="_blank"><img src="https://img.shields.io/badge/Google%20Meet-32A350?style=for-the-badge&logo=google-meet&logoColor=white" ></a>
 </p>
 
-- 👩‍⚕️ Nutricionista <br>
-- 📚 Aprendendo JavaScript, Python, TypeScript e Java <br>
-- <img width="20vw" src="https://pa1.narvii.com/6579/d4ff876f2a775c3496071ad629f73f38e1119f18_hq.gif"/> Pronome: Ela/Dela/ she/her
+- 👩‍⚕️ Nutritionist <br>
+- 📚 Learning JavaScript, Python, TypeScript and Java <br>
+- <img width="20vw" src="https://pa1.narvii.com/6579/d4ff876f2a775c3496071ad629f73f38e1119f18_hq.gif"/> Pronoun: She/Her/
   <br>
 
 ### 💼 Languages, tools ​​and frameworks I know study
@@ -31,7 +31,7 @@
 
 <hr>
 
-![Mongo](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/prisma-1B222D?style=for-the-badge&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -83,8 +83,8 @@
 
 <div>
   <a href="https://github-readme-stats.vercel.app/api?username=nayallalima&show_icons=true&theme=radical">
-  <img height="125em" src="https://github-readme-stats.vercel.app/api?username=nayallalima&show_icons=true&theme=radical"/>
-  <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayallalima&theme=radical&layout=compact"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=nayallalima&show_icons=true&theme=radical"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayallalima&theme=radical&layout=compact"/>
 </div>
 <br>
 
