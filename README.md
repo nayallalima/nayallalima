@@ -1,5 +1,5 @@
 <h1 align='center' > <a href="https://www.linkedin.com/in/nayalla-lima/" target="_blank">
-<img style="border-radius:50%" style="margin:1rem" width="60px" src="https://media-exp1.licdn.com/dms/image/C4E03AQF2CoYQ5p5hLg/profile-displayphoto-shrink_200_200/0/1609244458047?e=1653523200&v=beta&t=J7dXUDIReK562CEiVSS4tLRVLXNZL2fbGZxgpx6I8Lc" width="150px"; alt="foto de Nayalla Lima"/> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  width="30px"> I'm Nayalla 👩‍💻 </h1>
+<img style="border-radius:50%" style="margin:1rem" width="60px" src="https://media-exp1.licdn.com/dms/image/C4E03AQF9wxIjI6LP_Q/profile-displayphoto-shrink_200_200/0/1648503352354?e=1664409600&v=beta&t=mxV3uMjAsGW397GHyWUwyFx9xd5gNcb6_u4A7LoWqPg" width="150px"; alt="foto de Nayalla Lima"/> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  width="30px"> I'm Nayalla 👩‍💻 </h1>
 
 <p align='center'> Developer Front-End Junior from Recife - PE, Brazil.
 <p align='center'>
@@ -16,7 +16,7 @@
 
 - 👩‍⚕️ Nutritionist <br>
 - 📚 Learning JavaScript, Python, TypeScript and Java <br>
-- <img width="20vw" src="https://pa1.narvii.com/6579/d4ff876f2a775c3496071ad629f73f38e1119f18_hq.gif"/> Pronoun: She/Her/
+- <img width="2%" src="https://pa1.narvii.com/6579/d4ff876f2a775c3496071ad629f73f38e1119f18_hq.gif"/> Pronoun: She/Her/
   <br>
 
 ### 💼 Languages, tools ​​and frameworks I know study
@@ -94,7 +94,8 @@
 <br>
 
 <p align='center'>
-  Do you like my open source projects? 😀 <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars  <img src="https://www.imagensanimadas.com/data/media/280/estrela-imagem-animada-0103.gif"  width="25px"></a>
+  Do you like my open source projects? 😀 
+  <a href='https://stars.github.com/nominate/' align='center'> Nominate me to Github Stars  <img src="https://www.imagensanimadas.com/data/media/280/estrela-imagem-animada-0103.gif" align='center' width="2%"></a>
 </p>
 
 <p align='center'>
