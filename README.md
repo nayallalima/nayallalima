@@ -95,7 +95,9 @@
 
 <p align='center'>
   Do you like my open source projects? 😀 
-  <a href='https://stars.github.com/nominate/' align='center'> Nominate me to Github Stars  <img src="https://www.imagensanimadas.com/data/media/280/estrela-imagem-animada-0103.gif" align='center' width="2%"></a>
+  <a href='https://stars.github.com/nominate/' align='center'> Nominate me to Github Stars  
+      <img src="https://www.imagensanimadas.com/data/media/280/estrela-imagem-animada-0103.gif" align='center' width="1%"/> <br>
+  </a>
 </p>
 
 <p align='center'>
