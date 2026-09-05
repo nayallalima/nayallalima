@@ -1,5 +1,4 @@
-<h1 align='center' > <a href="https://www.linkedin.com/in/nayalla-lima/" target="_blank">
-<img style="border-radius:50% !important; margin:1px;" width="60px" src="https://media.licdn.com/dms/image/v2/D4D03AQGV9xj5ljqtDg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1718219446123?e=1790208000&v=beta&t=E2qVAzbLJE3PiYVY8iE4pDQZLES_SwJpwNkO2lwC2go" alt="foto de Nayalla Lima"/> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  width="30px"> I'm Nayalla 👩‍💻 </h1>
+<h1 align="center"> <img src="https://media.licdn.com/dms/image/v2/D4D03AQGV9xj5ljqtDg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1718219446123?e=1790208000&v=beta&t=E2qVAzbLJE3PiYVY8iE4pDQZLES_SwJpwNkO2lwC2go" width="70px" alt="Foto de Nayalla Lima"  /> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Wave" /> I'm Nayalla 👩‍💻 </h1> 
 
 <p align='center'> Developer Front-End Junior from Recife - PE, Brazil.
 <p align='center'>
